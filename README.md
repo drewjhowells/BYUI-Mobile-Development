@@ -1,9 +1,20 @@
 # BYUI Mobile-Development
 
 ![Mobile Development](Images/Mobile-App-Development-Banner-w-Discord.png)
-Welcome to the BYUI Mobile Development Team! In this repository, we have resources for and projects made by students at BYU-Idaho interested in Mobile Development. We focus on Native Development for Android and iOS. Below are some links to get you started:
+Welcome to the BYUI Mobile Development Team! Our goal is to help student gain experience using modern mobile frameworks and software development methodologies. We focus on Native Development for Android and iOS. In this repository, we have projects and workshops made by students at BYU-Idaho interested in Mobile Development. We also have some learning resources to assist those new to Mobile Development. Below are some links to get you started:
 
-## Resources to get started
+## Projects
+
+* [Resume Universe Android](https://github.com/drewjhowells/MobileDevResumeUniverseAndroid.git)
+
+## Workshops
+
+* [Jetpack Compose UI](Workshops/Jetpack-Compose-UI/)
+* [Kotlin](Workshops/Kotlin/)
+
+## Learning Resources
+
+#### Software Development
 
 * [Git Documentation](https://git-scm.com/doc)
 * [Github Intro](https://docs.github.com/en/get-started/start-your-journey)
@@ -21,17 +32,7 @@ Welcome to the BYUI Mobile Development Team! In this repository, we have resourc
 * [Swift UI Crash Course](https://www.youtube.com/watch?v=hBNhH28-dBY)
 * [XCode Walkthrough](https://www.youtube.com/watch?v=EJQW864XpmA)
 
+## Contact Information
 
-## Workshops
-
-* [Jetpack Compose UI](Workshops/Jetpack-Compose-UI/)
-* [Kotlin](Workshops/Kotlin/)
-
-## Projects
-
-* []()
-
-### Contact Information
-
-- President: Drew Howells, [drewjhowells@gmail.com]()
+- President, Founder: Drew Howells, [drewjhowells@gmail.com]()
 - Vice President: Josh Woods, []()
