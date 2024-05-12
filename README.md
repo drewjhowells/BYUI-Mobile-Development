@@ -1,6 +1,6 @@
 # BYUI Mobile-Development
 
-![Mobile Development](Images/Mobile-App-Development-Banner-w-Discord.png)
+![Mobile Development](images/Mobile-App-Development-Banner-w-Discord.png)
 Welcome to the BYUI Mobile Development Team! Our goal is to help student gain experience using modern mobile frameworks and software development methodologies. We focus on Native Development for Android and iOS. In this repository, we have projects and workshops made by students at BYU-Idaho interested in Mobile Development. We also have some learning resources to assist those new to Mobile Development. Below are some links to get you started:
 
 ## Projects
