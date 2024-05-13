@@ -32,7 +32,13 @@ Welcome to the BYUI Mobile Development Team! Our goal is to help student gain ex
 * [Swift UI Crash Course](https://www.youtube.com/watch?v=hBNhH28-dBY)
 * [XCode Walkthrough](https://www.youtube.com/watch?v=EJQW864XpmA)
 
-## Contact Information
+## Other
+
+#### Contact Information
 
 - President, Founder: Drew Howells, [drewjhowells@gmail.com]()
 - Vice President: Josh Woods, []()
+
+#### Meetings
+
+- [Meeting Slides](https://docs.google.com/presentation/d/1eQflGHWZ78m_GjICmxiM9n8VAXLonLdooJKmRApc-Og/edit#slide=id.g2da69334de5_0_77)
