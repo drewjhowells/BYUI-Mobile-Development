@@ -12,6 +12,8 @@ Welcome to the BYUI Mobile Development Team! Our goal is to help student gain ex
 * [Jetpack Compose UI](https://github.com/drewjhowells/ComposeUI_Workshop)
 * [Kotlin](https://replit.com/@drewjhowells/KotlinWorkshop)
 
+* [Swift Basics](https://replit.com/@alexdombroski1/Swift-Basics#main.swift)
+
 ## Learning Resources
 
 #### Software Development
