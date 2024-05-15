@@ -9,8 +9,8 @@ Welcome to the BYUI Mobile Development Team! Our goal is to help student gain ex
 
 ## Workshops
 
-* [Jetpack Compose UI](Workshops/Jetpack-Compose-UI/)
-* [Kotlin](Workshops/Kotlin/)
+* [Jetpack Compose UI](https://github.com/drewjhowells/ComposeUI_Workshop)
+* [Kotlin](https://replit.com/@drewjhowells/KotlinWorkshop)
 
 ## Learning Resources
 
