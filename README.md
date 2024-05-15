@@ -37,7 +37,7 @@ Welcome to the BYUI Mobile Development Team! Our goal is to help student gain ex
 #### Contact Information
 
 - President, Founder: Drew Howells, [drewjhowells@gmail.com]()
-- Vice President: Josh Woods, []()
+- Vice President: Josh Palmer, []()
 
 #### Meetings
 
